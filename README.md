@@ -6,3 +6,5 @@ The app simulates a NumLock keystroke when user activity is not detected, thus p
 You also have the option to set a time interval during which the app will do the job.
 
 ![alt text](img.PNG)
+
+![alt text](set.PNG)
